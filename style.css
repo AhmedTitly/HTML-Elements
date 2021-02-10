@@ -1,0 +1,21 @@
+h1{
+	background-color: seagreen;
+	text-align: center;
+	min-height: 100px; 
+}
+address{
+	font-style: normal; ;
+	font-family: Cursive;
+}
+aside{
+	width: 30%;
+	padding: 30px;
+	float: right;
+	font-style: italic;
+	background-color: lightgray;
+}
+blockquote{
+	font-style: italic;
+	font-size: large;
+	color: purple;
+}
